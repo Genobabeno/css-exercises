@@ -1,0 +1,14 @@
+.blckButton,
+.ylwButton {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman";
+}
+
+.blckButton {
+    background-color: black;
+    color: white;
+}
+
+.ylwButton {
+    background-color: yellow;
+}
